@@ -1,0 +1,8 @@
+{
+  "regions": ["sin1"],
+  "build": {
+    "env": {
+      "NEXT_TELEMETRY_DISABLED": "1"
+    }
+  }
+}
